@@ -14,4 +14,6 @@
 **PERSONAL PROJECT**
 * iOS APP **<a href="https://apps.apple.com/kr/app/soldoku/id6443436449">[SolDoku]</a>** : Programmer(UIKit, Objective-C, OpenCV, TensorFlow), Planner, Designe
 * iOS APP **<a href="https://apps.apple.com/kr/app/hangeul-puzzle/id1634394239?l=en">[Hangeul Puzzle]</a> WWDC2022 Chanllenge Award** : Programmer(SwiftUI), Planner, Designe
+
+**TEAM PROJECT**
 * iOS APP **<a href="https://apps.apple.com/kr/app/hangulking/id1637450662?l=en">[Hangul King]</a>** : Programmer(UIKit), Planner

@@ -17,3 +17,4 @@
 
 **TEAM PROJECT**
 * iOS APP **<a href="https://apps.apple.com/kr/app/hangulking/id1637450662?l=en">[Hangul King]</a>** : Programmer(UIKit), Planner
+* iOS APP **<a href="https://apps.apple.com/kr/app/plreq/id6444010757?l=en">[PLREQ]</a>** : Planner, Programmer(UIKit)

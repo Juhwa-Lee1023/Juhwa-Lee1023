@@ -12,9 +12,10 @@
 ---
 ### 📱iOS Release
 **PERSONAL PROJECT**
-* iOS APP **<a href="https://apps.apple.com/kr/app/soldoku/id6443436449">[SolDoku]</a>** : Programmer(UIKit, Objective-C, OpenCV, TensorFlow), Planner, Designe
-* iOS APP **<a href="https://apps.apple.com/kr/app/hangeul-puzzle/id1634394239?l=en">[Hangeul Puzzle]</a> WWDC2022 Chanllenge Award** : Programmer(SwiftUI), Planner, Designe
+* iOS APP **<a href="https://apps.apple.com/kr/app/soldoku/id6443436449">[SolDoku]</a>** : Programmer(UIKit, Objective-C, OpenCV, TensorFlow), Planner, Designer
+* iOS APP **<a href="https://apps.apple.com/kr/app/hangeul-puzzle/id1634394239?l=en">[Hangeul Puzzle]</a> WWDC2022 Chanllenge Award** : Programmer(SwiftUI), Planner, Designer
 
 **TEAM PROJECT**
 * iOS APP **<a href="https://apps.apple.com/kr/app/hangulking/id1637450662?l=en">[Hangul King]</a>** : Programmer(UIKit), Planner
-* iOS APP **<a href="https://apps.apple.com/kr/app/plreq/id6444010757?l=en">[PLREQ]</a>** : Planner, Programmer(UIKit)
+* iOS APP **<a href="https://apps.apple.com/kr/app/plreq/id6444010757?l=en">[PLREQ]</a>** : Team Leader, Planner, Programmer(UIKit)
+* iOS APP **<a href="https://apps.apple.com/kr/app/kloudy-charactercheck-weather/id6444051667">[Kloudy]</a>** : Planner, Programmer(UIKit)

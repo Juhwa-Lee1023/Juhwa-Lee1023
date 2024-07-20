@@ -1,9 +1,4 @@
-## 👋 Hi, I'm Juhwa Lee 🪙
-
-<a href='https://kr.linkedin.com/in/juhwa-lee-4a7524235'><img align='center' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='25px'/></a> 
-안녕하세요. **'낯섦'** 을 두려워하지않는 개발자 이주화입니다.
-<br/>
-<br/>
+## 👋 Hi, I'm Juhwa Lee 🪙   <a href='https://kr.linkedin.com/in/juhwa-lee-4a7524235'><img align='center' alt="linkedin" src="https://user-images.githubusercontent.com/74142881/167264589-fc25b22f-bd46-47c0-958f-9224db13ca88.png" height='25px'/></a> 
 
 ### 📚 Career
 ---
@@ -21,6 +16,7 @@
 * iOS APP **<a href="https://apps.apple.com/kr/app/hangeul-puzzle/id1634394239?l=en">[Hangeul Puzzle]</a> WWDC2022 Chanllenge Award** : Programmer(SwiftUI), Planner, Designer
 
 **TEAM PROJECT**
+* iOS APP **<a href="https://apps.apple.com/kr/app/%EC%8B%9C%ED%8B%B0%ED%83%80%EC%9D%B4%EB%A8%B8-%EC%A7%80%ED%95%98%EC%B2%A0-%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98-%EB%8F%84%EC%B0%A9-%EC%A0%95%EB%B3%B4/id6504002565">[시티타이머]</a>** : Programmer(SwiftUI), Planner
 * iOS APP **<a href="https://apps.apple.com/kr/app/hangulking/id1637450662?l=en">[Hangul King]</a>** : Programmer(UIKit), Planner
 * iOS APP **<a href="https://apps.apple.com/kr/app/plreq/id6444010757?l=en">[PLREQ]</a>** : Team Leader, Planner, Programmer(UIKit)
 * iOS APP **<a href="https://apps.apple.com/kr/app/kloudy-charactercheck-weather/id6444051667">[Kloudy]</a>** : Planner, Programmer(UIKit)

@@ -25,4 +25,4 @@
 
 ---
 ### 🛠️ Open-Source Projects
-* **<a href="https://github.com/username/HangulSearch">[HangulSearch]</a>** : 다양한 방식의 한글 검색을 지원하는 Swift 라이브러리
+* **<a href="https://github.com/Juhwa-Lee1023/HangulSearch">[HangulSearch]</a>** : 다양한 방식의 한글 검색을 지원하는 Swift 라이브러리

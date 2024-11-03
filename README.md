@@ -17,7 +17,12 @@
 
 **TEAM PROJECT**
 * iOS APP **<a href="https://apps.apple.com/kr/app/%EC%8B%9C%ED%8B%B0%ED%83%80%EC%9D%B4%EB%A8%B8-%EC%A7%80%ED%95%98%EC%B2%A0-%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98-%EB%8F%84%EC%B0%A9-%EC%A0%95%EB%B3%B4/id6504002565">[시티타이머]</a>** : Programmer(SwiftUI), Planner
+* iOS APP **<a href="https://apps.apple.com/kr/app/id6670601061">[알뜰독서]</a>** : Programmer(SwiftUI), Planner, Designer
 * iOS APP **<a href="https://apps.apple.com/kr/app/id6560111428">[노르웨더]</a>** : Programmer(SwiftUI), Planner
 * iOS APP **<a href="https://apps.apple.com/kr/app/hangulking/id1637450662?l=en">[Hangul King]</a>** : Programmer(UIKit), Planner
 * iOS APP **<a href="https://apps.apple.com/kr/app/plreq/id6444010757?l=en">[PLREQ]</a>** : Team Leader, Planner, Programmer(UIKit)
 * iOS APP **<a href="https://apps.apple.com/kr/app/kloudy-charactercheck-weather/id6444051667">[Kloudy]</a>** : Planner, Programmer(UIKit)
+
+---
+### 🛠️ Open-Source Projects
+* **<a href="https://github.com/username/HangulSearch">[HangulSearch]</a>** : 다양한 방식의 한글 검색을 지원하는 Swift 라이브러리

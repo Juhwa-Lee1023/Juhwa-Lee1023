@@ -11,17 +11,22 @@
 
 ---
 ### 📱iOS Release
-**PERSONAL PROJECT**
+**PERSONAL PROJECTS**
 * iOS APP **<a href="https://apps.apple.com/kr/app/soldoku/id6443436449">[SolDoku]</a>** : Programmer(UIKit, Objective-C, OpenCV, TensorFlow), Planner, Designer
 * iOS APP **<a href="https://apps.apple.com/kr/app/hangeul-puzzle/id1634394239?l=en">[Hangeul Puzzle]</a> WWDC2022 Chanllenge Award** : Programmer(SwiftUI), Planner, Designer
 
-**TEAM PROJECT**
+**TEAM PROJECTS**
 * iOS APP **<a href="https://apps.apple.com/kr/app/%EC%8B%9C%ED%8B%B0%ED%83%80%EC%9D%B4%EB%A8%B8-%EC%A7%80%ED%95%98%EC%B2%A0-%EC%9C%84%EC%B9%98%EA%B8%B0%EB%B0%98-%EB%8F%84%EC%B0%A9-%EC%A0%95%EB%B3%B4/id6504002565">[시티타이머]</a>** : Programmer(SwiftUI), Planner
+* iOS APP **<a href="https://apps.apple.com/kr/app/id6478649071">[부키]</a>** : Programmer(SwiftUI)
 * iOS APP **<a href="https://apps.apple.com/kr/app/id6670601061">[알뜰독서]</a>** : Programmer(SwiftUI), Planner, Designer
 * iOS APP **<a href="https://apps.apple.com/kr/app/id6560111428">[노르웨더]</a>** : Programmer(SwiftUI), Planner
 * iOS APP **<a href="https://apps.apple.com/kr/app/hangulking/id1637450662?l=en">[Hangul King]</a>** : Programmer(UIKit), Planner
 * iOS APP **<a href="https://apps.apple.com/kr/app/plreq/id6444010757?l=en">[PLREQ]</a>** : Team Leader, Planner, Programmer(UIKit)
 * iOS APP **<a href="https://apps.apple.com/kr/app/kloudy-charactercheck-weather/id6444051667">[Kloudy]</a>** : Planner, Programmer(UIKit)
+
+**COMPANY PROJECTS**
+* iOS APP **<a href="https://apps.apple.com/kr/app/id1615345993">[에이닷]</a>** : Programmer(SwiftUI), Project Manager
+* iOS APP **<a href="https://apps.apple.com/kr/app/id6480400926">[오락]</a>** : Programmer(SwiftUI)
 
 ---
 ### 🛠️ Open-Source Projects
